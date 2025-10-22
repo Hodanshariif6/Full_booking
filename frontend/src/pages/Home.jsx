@@ -322,7 +322,7 @@ const handleCloseModal = () => {
         </h2>
 
         <img
-          src={`https://full-booking-3.onrender.com/allImages/${selectedProduct.prImage}`}
+          src={`https://full-booking-4.onrender.com/allImages/${selectedProduct.prImage}`}
           alt={selectedProduct.name}
           className="w-full h-40 object-cover rounded mb-4"
         />
