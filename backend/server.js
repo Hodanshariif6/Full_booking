@@ -11,7 +11,7 @@ const customerRouter = require("./Router/CustomerRouter");
 const adminRouter = require("./Router/adminRouter");
 
 const app = express();
-const PORT = process.env.PORT || 7000; // PORT waa capital
+const PORT = process.env.PORT || 7000;
 
 // Middlewares
 app.use(express.json());
